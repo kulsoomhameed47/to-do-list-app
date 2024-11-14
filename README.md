@@ -3,7 +3,7 @@
 
 1. **Clone the Repository**:
     ```bash
-    git clone <repository_url>
+    git clone <https://github.com/kulsoomhameed47/to-do-list-app>
     ```
 
 2. **Open the Project**:
@@ -46,3 +46,7 @@ Feel free to submit issues or pull requests if you'd like to improve this projec
 ## License
 
 This project is licensed under the MIT License.
+
+## Contact
+
+For questions or suggestions, feel free to reach out to [Kulsoom Hameed](mailto:kulsoomhameed47@gmail.com).
