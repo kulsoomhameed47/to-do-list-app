@@ -3,7 +3,7 @@
 
 1. **Clone the Repository**:
     ```bash
-    git clone <https://github.com/kulsoomhameed47/to-do-list-app>
+    git clone <https://github.com/kulsoomhameed47/to-do-list-app.io.git>
     ```
 
 2. **Open the Project**:
